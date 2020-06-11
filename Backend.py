@@ -115,4 +115,4 @@ if __name__ == "__main__":
    t3=time()
    Summarize()
    t4=time()
-   print("total time to execute program
+   print("total time to execute program code: %f "%(t4-t3),"seconds")
